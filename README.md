@@ -36,7 +36,7 @@ hassle of improving the house. Pararius wants to create a place on the internet 
 <img src="https://github.com/Bayunova28/Rental_Apartment/blob/main/Images/twitter-api.jpg" height="350" width="1000">
 
 The Twitter API can be used to programmatically retrieve and analyze Twitter data, as well as build for the conversation on Twitter.
-Over the years, the Twitter API has grown by adding additional levels of access for developers and academic researchers to be able to scale their access to enhance and research the public conversation. Recently, we released the [Twitter API v2.](https://developer.twitter.com/en/portal/petition/essential/basic-info) The Twitter API v2 includes a modern foundation, new and advanced features, and quick onboarding to Essential access. 
+Over the years, the Twitter API has grown by adding additional levels of access for developers and academic researchers to be able to scale their access to enhance and research the public conversation. Recently, Twitter Developer released the [Twitter API v2.](https://developer.twitter.com/en/portal/petition/essential/basic-info) The Twitter API v2 includes a modern foundation, new and advanced features, and quick onboarding to Essential access. 
 The following three tabs explain the different versions and access levels of the Twitter API, what’s new with v2, and which Twitter resources you can retrieve, create, destroy, and adjust using the API. 
 
 ## Web Scrapping
