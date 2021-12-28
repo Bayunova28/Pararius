@@ -8,7 +8,7 @@
 * [Twitter API](#twitter-api)
 * [Web Scrapping](#web-scrapping)
 * [Inspiration](#inspiration)
-* [Group Name](#group-name)
+* [Director](#director)
 
 ## Background
 <img src="https://github.com/Bayunova28/Rental_Apartment/blob/main/Images/images.png" height="200" width="1000">
@@ -56,7 +56,7 @@ The following three tabs explain the different versions and access levels of the
 * What is the most sentiment from user tweet at Pararius?
 * What is the most expensive apartment at Den Haag on Pararius website?
 
-## Group Name
+## Director
 * Christofer Miko Lee
 * Lexand Silaban
 * Nicholas
