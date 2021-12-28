@@ -39,7 +39,7 @@ To start using the Twitter API, you need to [register your application with Twit
 Your new application will be assigned a consumer key/secret pair that identifies your application to Twitter. This is all you need to configure your client for application-only authentication.
 
 ```
-#generate API twitter
+#generate twitter API
 api_key = "YOUR API KEY"
 api_secret_key = "YOUR API SECRET KEY"
 access_token = "YOUR ACCESS TOKEN"
