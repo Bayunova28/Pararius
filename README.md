@@ -41,12 +41,12 @@ The following three tabs explain the different versions and access levels of the
 
 ## Web Scrapping
 
-### Twitter
+### [Twitter](https://twitter.com/Pararius)
 * **ID :** the id of the tweet
 * **Datetime :** the date of the tweet 
 * **Tweet :** the text of user tweet
 
-### Website
+### [Website](https://www.pararius.com/apartments/den-haag)
 * **Name :** the name of apartment 
 * **Location :** the location of apartment
 * **Area :** space area of apartment
