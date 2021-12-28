@@ -25,6 +25,7 @@ hassle of improving the house. Pararius wants to create a place on the internet 
 
 ## Requirement
 * **Python 3.5+**
+* **Tweepy (`$ pip install tweepy`)**
 * **NumPy (`$ pip install numpy`)**
 * **Pandas (`$ pip install pandas`)**
 * **Deep-Translator (`$ pip install deep-translator`)**
@@ -33,12 +34,25 @@ hassle of improving the house. Pararius wants to create a place on the internet 
 * **MatplotLib (`$ pip install matplotlib`)**
 
 ## Twitter API
-<img src="https://github.com/Bayunova28/Rental_Apartment/blob/main/Images/twitter-api.jpg" height="350" width="1000">
+To start using the Twitter API, you need to [register your application with Twitter](https://developer.twitter.com/en/products/twitter-api). Registration requires you to answer some questions about your application and agree to the [Twitter API Terms of Use](https://developer.twitter.com/en/developer-terms/agreement-and-policy).
 
-The Twitter API can be used to programmatically retrieve and analyze Twitter data, as well as build for the conversation on Twitter.
-Over the years, the Twitter API has grown by adding additional levels of access for developers and academic researchers to be able to scale their access to enhance and research the public conversation. Recently, Twitter Developer released the [Twitter API v2.](https://developer.twitter.com/en/portal/petition/essential/basic-info) The Twitter API v2 includes a modern foundation, new and advanced features, and quick onboarding to Essential access. 
-The following three tabs explain the different versions and access levels of the Twitter API, what’s new with v2, and which Twitter resources you can retrieve, create, destroy, and adjust using the API. 
+Your new application will be assigned a consumer key/secret pair that identifies your application to Twitter. This is all you need to configure your client for application-only authentication.
 
+```
+#generate API twitter
+api_key = "YOUR API KEY"
+api_secret_key = "YOUR API SECRET KEY"
+access_token = "YOUR ACCESS TOKEN"
+access_token_secret = "YOUR ACCESS TOKEN SECRET"
+```
+If you have been generate the twitter API, authentication it.
+
+```
+#authentication twitter API
+auth = tweepy.OAuthHandler(api_key, api_secret_key)
+auth.set_access_token(access_token, access_token_secret)
+api = tweepy.API(auth)
+```
 ## Web Scrapping
 
 ### [Twitter](https://twitter.com/Pararius)
