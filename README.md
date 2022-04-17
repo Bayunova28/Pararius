@@ -70,7 +70,7 @@ api = tweepy.API(auth)
 * What is the most sentiment from user tweet at Pararius?
 * What is the most expensive apartment at Den Haag on Pararius website?
 
-## Director
+## Creator
 * Christofer Miko Lee
 * Lexand Silaban
 * Nicholas
