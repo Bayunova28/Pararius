@@ -1,14 +1,12 @@
 # Rental Apartment on Den Haag
 
 ## Table of Contents
-* [Dataset](https://github.com/Bayunova28/Rental_Apartment/tree/main/Dataset)
-* [Code](https://github.com/Bayunova28/Rental_Apartment/blob/main/WillibrordusBayu_00000034000_IS502_BL_UAS.ipynb) 
 * [Background](#background)
 * [Requirement](#requirement)
 * [Twitter API](#twitter-api)
 * [Web Scrapping](#web-scrapping)
 * [Inspiration](#inspiration)
-* [Director](#director)
+* [Creator](#creator)
 
 ## Background
 <img src="https://github.com/Bayunova28/Rental_Apartment/blob/main/Images/images.png" height="200" width="1000">
@@ -36,7 +34,7 @@ To start using the Twitter API, you need to [register your application with Twit
 
 Your new application will be assigned a consumer key/secret pair that identifies your application to Twitter. This is all you need to configure your client for application-only authentication.
 
-```
+```python
 #generate twitter API
 api_key = "YOUR API KEY"
 api_secret_key = "YOUR API SECRET KEY"
@@ -45,7 +43,7 @@ access_token_secret = "YOUR ACCESS TOKEN SECRET"
 ```
 If you have been generate the twitter API, authentication it.
 
-```
+```python
 #authentication twitter API
 auth = tweepy.OAuthHandler(api_key, api_secret_key)
 auth.set_access_token(access_token, access_token_secret)
