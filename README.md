@@ -13,15 +13,13 @@
 ## Background
 <img src="https://github.com/Bayunova28/Rental_Apartment/blob/main/Images/images.png" height="200" width="1000">
 
-Pararius is the largest independent website for rental properties in the Netherlands. Pararius brings together tenants and landlords. Hundreds of professional organisations offer 
+<p align="justify">Pararius is the largest independent website for rental properties in the Netherlands. Pararius brings together tenants and landlords. Hundreds of professional organisations offer 
 their available rental properties on Pararius. These organisations consist of real estate brokers, property management companies, developers and housing associations throughout 
 the Netherlands. Visitors of Pararius can easily search the large selection of rental properties and then contact them by email or simply just by calling. Pararius was developed 
-by real estate brokers that are expat rental specialists. Pararius is very convenient for both tenant and landlord. Pararius is Latin for Real Estate broker or Intermediate. 
-<br />
-<br />
-Pararius is derived from the verb parare. Parare means prepare, to complete, to organise, to equip. The English word prepared is derived from Pararius. It is a wonderful metaphor 
+by real estate brokers that are expat rental specialists. Pararius is very convenient for both tenant and landlord. Pararius is Latin for Real Estate broker or Intermediate.<p> 
+<p align="justify">Pararius is derived from the verb parare. Parare means prepare, to complete, to organise, to equip. The English word prepared is derived from Pararius. It is a wonderful metaphor 
 for a property for rent in any category. The accommodation is ready to move in to. After signing the agreement (in most cases) the tenant will be able to move in without too much 
-hassle of improving the house. Pararius wants to create a place on the internet where the rental market is transparent and where offer and demand will meet each other.
+hassle of improving the house. Pararius wants to create a place on the internet where the rental market is transparent and where offer and demand will meet each other.<p>
 
 ## Requirement
 * **Python 3.5+**
