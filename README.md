@@ -69,7 +69,7 @@ api = tweepy.API(auth)
 ## Creator
 * Christofer Miko Lee
 * Lexand Silaban
-* Nicholas
+* Nicholas Tjayadi
 * Thendy Rhenaldy
 * Willibrordus Bayu
 
